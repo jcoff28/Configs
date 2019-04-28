@@ -1,3 +1,4 @@
+## When you hit up on the terminal window, autocomplete from history matching what you've typed already.
 ## arrow up
 "\e[A":history-search-backward
 ## arrow down
